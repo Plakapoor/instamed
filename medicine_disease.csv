@@ -1,0 +1,1394 @@
+Salt,Name,Price
+Cefadroxil,Odoxil,13
+Cefadroxil,Cefadrox,13
+Cefadroxil,Droxyl,13
+Cefadroxil,Vepan,13
+Cefadroxil,Cefadur,13
+Cefadroxil,Bicef,19
+Cefadroxil,Cefadrox Kid,15
+Cefadroxil,Bludrox,19
+Cefadroxil,Cexil,11
+Cefadroxil,Lacef,12
+Atenolol,Aten,30
+Atenolol,Tenolol,24
+Atenolol,Tenormin,30
+Atenolol,Betacard,24
+Atenolol,Atenex,24
+Atenolol,Ziblok,5
+Atenolol,Atecard,25
+Atenolol,Atpark,24
+Atenolol,Tenomac,26
+Atenolol,Hibesor,10
+Gemfibrozil,Lopid,188
+Gemfibrozil,Regulipid,90
+Gemfibrozil,Triglyd,75
+Acyclovir,Axovir,94
+Acyclovir,Neoclovir,218
+Acyclovir,Vir,471
+Acyclovir,Acicet,49
+Acyclovir,Aciherpin,48
+Acyclovir,Acivex,78
+Acyclovir,Lovir,124
+Acyclovir,Triclovir,120
+Acyclovir,Vazovir,670
+Acyclovir,Virax,211
+Miconazole,Condiderm,40
+L-Arginine,Arginitric,32
+Lactobacillus Extra Strength Oral Capsul,Nubact,12
+Minoxidil,Lonitab,282
+Minoxidil,Staha,220
+Minoxidil,Lonit,210
+Cyclophosphamide,Endoxan N,54
+Cyclophosphamide,Endoxan,42
+Cyclophosphamide,Cycloxan,35
+Cyclophosphamide,Cyclocel,35
+Cyclophosphamide,Oncomide,16
+Cyclophosphamide,Cyphos,40
+Cyclophosphamide,Phosmid,21
+Cyclophosphamide,Oncophos,35
+Cyclophosphamide,Cycram,28
+Cyclophosphamide,Cydoxan,68
+Ergotamine-Caffeine,Vasograin,79
+Ergotamine-Caffeine,NT Grain,23
+Triamcinolone Acetonide,Exsora,184
+Lisinopril,Listril,63
+Lisinopril,Lipril,61
+Lisinopril,Hipril,39
+Lisinopril,Lisoril,36
+Lisinopril,Normopril,17
+Lisinopril,Cipril,25
+Lisinopril,Hypernil,98
+Lisinopril,Lisitec,20
+Lisinopril,Acinopril,20
+Lisinopril,Dilace,30
+Enalapril-Hydrochlorothiazide,Enace D,84
+Enalapril-Hydrochlorothiazide,Enapril HT,101
+Enalapril-Hydrochlorothiazide,Envas H,61
+Enalapril-Hydrochlorothiazide,EL HT,33
+Enalapril-Hydrochlorothiazide,Tenam HT,65
+Enalapril-Hydrochlorothiazide,Enzide,32
+Enalapril-Hydrochlorothiazide,Vasonorm H,29
+Enalapril-Hydrochlorothiazide,Normace D,52
+Enalapril-Hydrochlorothiazide,Enam D,27
+Enalapril-Hydrochlorothiazide,Viviril-D,27
+Quinapril-Hydrochlorothiazide,Q Press H,66
+GuaiFENesin,Cervclear,94
+GuaiFENesin,Barkeit,86
+GuaiFENesin,Sputolite,65
+GuaiFENesin,Tox Dmr,48
+Amoxicillin,Mox,21
+Amoxicillin,Novamox,21
+Amoxicillin,Wymox,21
+Amoxicillin,Almox,31
+Amoxicillin,Erox,30
+Amoxicillin,Blumox,86
+Amoxicillin,Pulmoxyl,59
+Amoxicillin,Zovax,21
+Amoxicillin,Pressmox,30
+Amoxicillin,Axl,70
+LevETIRAcetam,Levipil,59
+LevETIRAcetam,Levera,58
+LevETIRAcetam,Levesam,58
+LevETIRAcetam,Epilive,59
+LevETIRAcetam,Torleva,58
+LevETIRAcetam,Levepsy,77
+LevETIRAcetam,Levigress,57
+LevETIRAcetam,Keppra,58
+LevETIRAcetam,Levacetam,57
+LevETIRAcetam,Levenue,58
+Diazepam,Valium,14
+Diazepam,Calmpose,12
+Diazepam,Peptica,10
+Diazepam,Paxum,11
+Diazepam,Lori,12
+Diazepam,Microdep,7
+Diazepam,Dpm,8
+Diazepam,Medipar,49
+Diazepam,Shipam,12
+Diazepam,Placidox,21
+Baclofen,Liofen,52
+Baclofen,Baclof,102
+Baclofen,Lioresal,100
+Baclofen,Bizlo,102
+Baclofen,Spinobak,60
+Baclofen,Riclofen,54
+Baclofen,Baclotop,100
+Baclofen,Bacloren,100
+Baclofen,Lobaset,100
+Baclofen,Baclesta,100
+Mercaptopurine,6-MP,74
+Mercaptopurine,Purinetone,66
+Mercaptopurine,Captomer,50
+NPH Insuli,Human Mixtard,143
+NPH Insuli,Huminsulin,143
+NPH Insuli,Insugen,148
+NPH Insuli,Mixtard,390
+NPH Insuli,Lupisulin M,143
+NPH Insuli,Wosulin,143
+NPH Insuli,Insuman Comb,1253
+NPH Insuli,Humstard,141
+NPH Insuli,Recosulin M,141
+NPH Insuli,Insucare M,140
+Metoprolol-Hydrochlorothiazide,Metpure H,93
+Metoprolol-Hydrochlorothiazide,Starpress-H,26
+Metoprolol-Hydrochlorothiazide,Met XL H,88
+Metoprolol-Hydrochlorothiazide,Revelol H,52
+Metoprolol-Hydrochlorothiazide,Metocard H,53
+Metoprolol-Hydrochlorothiazide,Supermet H,81
+Metoprolol-Hydrochlorothiazide,Tolol H,63
+Metoprolol-Hydrochlorothiazide,Embeta HT,57
+Metoprolol-Hydrochlorothiazide,Metoright H,75
+Metoprolol-Hydrochlorothiazide,Metonce H,57
+Zidovudine,Zidovir,62
+Zidovudine,Zidine,932
+Zidovudine,Viro Z,45
+Zidovudine,Zidohope,596
+Zidovudine,Zidovex,259
+Zidovudine,Zidovex L Plus E,104
+Zidovudine,Zilion,215
+Bisoprolol-Hydrochlorothiazide,Lodoz,63
+Bisoprolol-Hydrochlorothiazide,Corbis H,64
+Bisoprolol-Hydrochlorothiazide,Concor Plus,101
+Bisoprolol-Hydrochlorothiazide,Bisocar HT,21
+Bisoprolol-Hydrochlorothiazide,Trubis H,44
+Bisoprolol-Hydrochlorothiazide,Qualiz,40
+Bisoprolol-Hydrochlorothiazide,Bisolol H,41
+Bisoprolol-Hydrochlorothiazide,Zebesta,52
+Glycopyrrolate,Glycolate,45
+Glycopyrrolate,Airz,380
+Glycopyrrolate,Pyrolate,11
+Glycopyrrolate,Gcolate,52
+Glycopyrrolate,Glyco P,11
+Glycopyrrolate,Pyrotroy,14
+Glycopyrrolate,Pyrolin,12
+Meloxicam,M Cam,19
+Meloxicam,Movel,33
+Meloxicam,Melaret,130
+Meloxicam,Melonex,32
+Meloxicam,Lormed,4
+Meloxicam,Tmel,45
+Meloxicam,Rafree,10
+Meloxicam,Artaz,11
+Meloxicam,Ecwin,9
+Meloxicam,Melflam,10
+Naproxen,Naprosyn,22
+Naproxen,Arthopan,52
+Naproxen,Artagen,34
+Naproxen,Napexar,27
+Naproxen,Naproz,34
+Naproxen,Proxidom,43
+Propylthiouracil,Ptu,448
+Coenzyme Q,Critizyme,539
+Zaleplon,Andant,27
+Zaleplon,Stilnite,36
+Zaleplon,Zalep,35
+Zaleplon,Zaso,24
+Zaleplon,Zonesta,61
+Zaleplon,Zanlop,28
+Zaleplon,Zaplon,35
+Eplerenone,Eptus,323
+Eplerenone,Planep,173
+Eplerenone,Exinia,116
+Eplerenone,Exenta,157
+Eplerenone,Epleran,240
+Eplerenone,Epnone,154
+Eplerenone,Eplecard,317
+Eplerenone,Eplehef,148
+Ampicillin,Broadicilin,14
+Ampicillin,Zycillin,8
+Ampicillin,Aristocillin,10
+Ampicillin,Biocilin,20
+Ampicillin,Campicillin,15
+Ampicillin,Ampilin,14
+Ampicillin,Orcillin,44
+Ampicillin,Ampikem,17
+Ampicillin,Ampiwok,8
+Ampicillin,JP Cilin,31
+EPINEPHrine,Noradria,142
+EPINEPHrine,Vasocon,12
+EPINEPHrine,Dianora,40
+EPINEPHrine,Enatrate,14
+EPINEPHrine,Adrelin,80
+EPINEPHrine,Adrenaline Tartrate,2
+MetroNIDAZOLE,Flagyl,6
+MetroNIDAZOLE,Metrogyl IV,12
+MetroNIDAZOLE,Metron,8
+MetroNIDAZOLE,Metrogis,14
+MetroNIDAZOLE,Metris,11
+MetroNIDAZOLE,Aristogyl,7
+MetroNIDAZOLE,Metro,8
+MetroNIDAZOLE,Metgyl,43
+MetroNIDAZOLE,Metrokem,11
+MetroNIDAZOLE,Sprot P,9
+Fluconazole,Forcan,11
+Fluconazole,AF,9
+Fluconazole,Onecan,17
+Fluconazole,Syscan,26
+Fluconazole,Fusys,36
+Fluconazole,Fole,5
+Fluconazole,Gocan,9
+Fluconazole,Fungid Best,11
+Fluconazole,Fumycin,12
+Fluconazole,Fluka,11
+Lidocaine-Prilocaine,RE Nopain,567
+Lidocaine-Prilocaine,Xynova P,144
+Lidocaine-Prilocaine,Xyloplus,37
+Lidocaine-Prilocaine,Numbex,176
+Zinc Oxide,Sunheal Pure,495
+Zinc Oxide,Rashcare,25
+Probenecid,Bencid,40
+Iron,Orofer S,130
+Iron,R.B Tone,53
+Iron,Roselina,108
+Iron,Irozorb S,218
+Iron,Jilazo,2900
+Iron,Jectocos,34
+Iron,I-Fag,99
+Iron,Ferri,261
+Iron,Isofer,2900
+Iron,Roseus,99
+Primidone,Mysoline,75
+Primidone,Prolet,49
+Amiloride-Hydrochlorothiazide,Biduret,29
+Sodium Bicarbonate,Nodosis,49
+Sodium Bicarbonate,Diosis,38
+Sodium Bicarbonate,Soda Bicarb Glycerin,37
+Sodium Bicarbonate,Nocidos,30
+Sodium Bicarbonate,Audosis,31
+Sodium Bicarbonate,Auxisoda,27
+Sodium Bicarbonate,Sodanet,35
+Sodium Bicarbonate,Sodapill,30
+Sodium Bicarbonate,Sodarise,27
+Sodium Bicarbonate,Sobinate,31
+Sucralfate,Sucrafil,138
+Sucralfate,Sparacid,71
+Sucralfate,Coatz,154
+Sucralfate,Sufrate O,85
+Sucralfate,Sucramal,64
+Sucralfate,Sucraday,70
+Sucralfate,Acefate,138
+Sucralfate,Pepsigard,66
+Sucralfate,Sparcid DS,99
+Sucralfate,Sucro,101
+Chlorthalidone,CTD,69
+Chlorthalidone,Lupiclor,45
+Chlorthalidone,Thiaklor,42
+Chlorthalidone,Thaloric,34
+Chlorthalidone,Aquiris,35
+Chlorthalidone,Clovet,45
+Chlorthalidone,Chlorfid,37
+Chlorthalidone,Chlohat,33
+Chlorthalidone,Thiovas,40
+Chlorthalidone,New CH,12
+PrednisoLONE,Wysolone,9
+PrednisoLONE,Omnacortil,5
+PrednisoLONE,Pred Forte,35
+PrednisoLONE,Kidpred,26
+PrednisoLONE,Methpred,250
+PrednisoLONE,Omnacortil Forte,38
+PrednisoLONE,Prednisolone Acetate,66
+PrednisoLONE,Emsolone,11
+PrednisoLONE,Predone,4
+PrednisoLONE,Mornipred,90
+Ipratropium-Albuterol,Salbair I Resp,7
+Ipratropium-Albuterol,Ventipra,59
+Ipratropium-Albuterol,Ventipra MDI,182
+Ipratropium-Albuterol,Combimist,4
+Azithromycin,Azee,19
+Azithromycin,Azilide,17
+Azithromycin,Azibact,17
+Azithromycin,Azimax,28
+Azithromycin,Zathrin,19
+Azithromycin,Laz,14
+Azithromycin,Zithrox,28
+Azithromycin,Zithrocin,17
+Azithromycin,Aziwok,16
+Azithromycin,Azibest,17
+Imiquimod,Imiquad,268
+Imiquimod,Nilwart,199
+Imiquimod,Qmica,78
+Piroxicam,Suganril,84
+Piroxicam,Ugesic,98
+Piroxicam,Doloforce,20
+Piroxicam,Feldex,100
+Piroxicam,Pyrodex,100
+Piroxicam,Piroever,85
+Piroxicam,Doloxicam,36
+Piroxicam,Ubcam,50
+Piroxicam,Rexicam,35
+Piroxicam,Mobicam,37
+Bicalutamide,Calutide,462
+Bicalutamide,Caluran,570
+Bicalutamide,Tabi,448
+Bicalutamide,Utamide,365
+Bicalutamide,Zyluta,352
+Bicalutamide,Cosalon,390
+Bicalutamide,Biprosta,427
+Bicalutamide,Caludec,346
+Bicalutamide,Ablu,137
+Bicalutamide,Bicalpro,440
+Bisacodyl,Dulcoflex,10
+Bisacodyl,Gerbisa,9
+Bisacodyl,Julax,28
+Bisacodyl,Lax,10
+Bisacodyl,Iglax,40
+Bisacodyl,Kilax,24
+Bisacodyl,Bisacad,5
+Bisacodyl,Laxidyl,4
+Bisacodyl,Lupiplax,10
+Bisacodyl,BO Lax,10
+Loratadine-Pseudoephedrine,Clarinase,125
+Loratadine-Pseudoephedrine,Loridin D,16
+Loratadine-Pseudoephedrine,Loran D,40
+Dipyridamole,Infartin 60,74
+Dipyridamole,Peridamol,12
+Dipyridamole,Thrombonil,38
+Dipyridamole,Cardiwell,2
+Dipyridamole,Dynacard,17
+Estradiol,Progynova,233
+Estradiol,MyEstra,150
+Estradiol,Enrifol,252
+Estradiol,Emgra,308
+Estradiol,Valest,365
+Estradiol,Evadiol,274
+Estradiol,Evatone,85
+Estradiol,Estrabet,203
+Estradiol,Estova,120
+Estradiol,Endofert,251
+Potassium Citrate,Potrate,31
+Alpha-Lipoic Acid,Alace,153
+Vitamin C,Vitamin C,2
+Vitamin B,Eldervit,18
+Vitamin B,Mylamin Plus,25
+Vitamin B,Trinurosol HP,56
+Vitamin B,Macravit M,23
+Vitamin B,Embion,11
+Vitamin B,Nvm Forte Plus,28
+Vitamin B,Trinurosol HV,56
+Vitamin B,Aneudox M,25
+Vitamin B,Corvit ME,28
+Vitamin B,Vbc,10
+Vitamin D,D3-Zen 60K,97
+Furosemide,Lasix,2
+Furosemide,Furoped,107
+Furosemide,Frusenex,4
+Furosemide,Frusenat,2
+Furosemide,Lasipen,3
+CycloSPORINE,Panimun Bioral,165
+CycloSPORINE,Iminoral,128
+CycloSPORINE,Cyclophil ME,130
+CycloSPORINE,Arpimune ME,110
+CycloSPORINE,Sandimmun Neoral,1395
+CycloSPORINE,Consiral,187
+CycloSPORINE,Graftin,166
+CycloSPORINE,Arpimune O,221
+CycloSPORINE,Sandimmun,319
+CycloSPORINE,Cyrin,277
+Misoprostol,Cytolog,65
+Misoprostol,L Pill,49
+Misoprostol,Pph,66
+Misoprostol,Misoprost,23
+Misoprostol,Prestakind,76
+Misoprostol,Miso-Gyn,19
+Misoprostol,M Prost,68
+Misoprostol,Kontrac,32
+Misoprostol,Cervisure,62
+Misoprostol,Misolog,60
+Atenolol-Chlorthalidone,Tenoric,35
+Atenolol-Chlorthalidone,Tenoclor,61
+Atenolol-Chlorthalidone,Atecard D,55
+Atenolol-Chlorthalidone,Tenoric LD,26
+FentaNYL,Fendrop,302
+FentaNYL,Trofentyl,58
+FentaNYL,Durogesic,1477
+FentaNYL,Fent,40
+Chlorzoxazone,Parafon Dsc,60
+Indomethacin,Indocap,47
+Indomethacin,Microcid,36
+Indomethacin,Donica,33
+Indomethacin,Inmecin,32
+Indomethacin,Imacin,100
+Indomethacin,Indocid,109
+Indomethacin,Ducaine,20
+Indomethacin,Indonet,67
+Indomethacin,Ancap,13
+Indomethacin,Inocin,15
+Capsaicin,Orthosenz,199
+Ibuprofen,Brufen,5
+Ibuprofen,Ibugesic,5
+Ibuprofen,Ibumin,10
+Ibuprofen,Icparil,29
+Ibuprofen,Tricoff,60
+Ibuprofen,Ibuvon,10
+Ibuprofen,Fenlong S,50
+Ibuprofen,Fenlong MR,49
+Ibuprofen,Endache,59
+Ibuprofen,Maxofen,7
+Mebendazole,Mebex,15
+Mebendazole,Kit Kat,18
+Mebendazole,Wormin,30
+Mebendazole,Mebenth,15
+Mebendazole,Eben,14
+Mebendazole,Acavom,18
+Mebendazole,Mebidex,5
+Mebendazole,Sandin,17
+Mebendazole,Sta,22
+GlipiZIDE,Glynase,6
+GlipiZIDE,Glytop,12
+GlipiZIDE,Glide,4
+GlipiZIDE,Glez,2
+GlipiZIDE,Glyson,5
+GlipiZIDE,Glucotrol,10
+GlipiZIDE,Glylup,3
+GlipiZIDE,Diaglip,4
+GlipiZIDE,Glipy,9
+GlipiZIDE,Diacon,4
+AzaTHIOprine,Azoran,96
+AzaTHIOprine,Aretha,87
+AzaTHIOprine,Imuza,106
+AzaTHIOprine,Thiopress,90
+AzaTHIOprine,Transimune,67
+AzaTHIOprine,Azapure,96
+AzaTHIOprine,Azofit,95
+AzaTHIOprine,Imoprine,90
+AzaTHIOprine,Azawan,85
+AzaTHIOprine,Azoprine,79
+Spironolactone,AIMIL,25
+Spironolactone,Aldactone,29
+CarBAMazepine,Tegrital,6
+CarBAMazepine,Tegrital CR,15
+CarBAMazepine,Zeptol,6
+CarBAMazepine,Zen,6
+CarBAMazepine,Mazetol,6
+CarBAMazepine,Carbatol,6
+CarBAMazepine,Versitol,15
+CarBAMazepine,Sterop,191
+CarBAMazepine,Zigma,7
+CarBAMazepine,Carbesta,12
+Norgestrel-Ethinyl Estradiol,Ovral G,176
+Desonide,Desowen,153
+Desonide,Dosetil,85
+Desonide,Atonide,105
+Desonide,Desosoft,99
+Desonide,Desoft,105
+Desonide,Desodd,110
+Aspirin,Ecosprin,4
+Aspirin,Loprin,4
+Aspirin,Delisprin,3
+Aspirin,Disprin,4
+Aspirin,Asa,3
+Aspirin,Asprin,159
+Aspirin,Delay Release Asprin,3
+Aspirin,Aspeeday,3
+Aspirin,Colsprin,2
+Aspirin,Sprin,2
+Phenytoin,Epsolin,10
+Phenytoin,Eptoin,10
+Phenytoin,Celetoin,10
+Phenytoin,C Toin,122
+Phenytoin,M Toin,8
+Phenytoin,Dilantin,11
+Phenytoin,Phenykem,8
+Phenytoin,Epsod,9
+Phenytoin,Eptokind,11
+Phenytoin,Episol,14
+Budesonide,Budecort,72
+Budesonide,Bunase,108
+Budesonide,Budez,160
+Budesonide,Budenase AQ,195
+Budesonide,Budate,149
+Budesonide,Nebzmart B,145
+Budesonide,Derinide AQ,299
+Budesonide,Nebzmart,176
+Budesonide,Derinide,100
+Budesonide,Alvonide,27
+Clarithromycin,Clarinova,97
+Clarithromycin,Klacid,876
+Clarithromycin,Claribid,113
+Clarithromycin,Bioclar,120
+Clarithromycin,Cloff,126
+Clarithromycin,Synclar,109
+Clarithromycin,Maclar,90
+Clarithromycin,Clarigard,152
+Clarithromycin,Clarie,192
+Clarithromycin,Clariwin,148
+Chlorhexidine Gluconate,Hexidine,40
+Chlorhexidine Gluconate,Hexigel,39
+Chlorhexidine Gluconate,Rexidin,7
+Chlorhexidine Gluconate,Skinn C,74
+Chlorhexidine Gluconate,Glycoseptol,45
+Chlorhexidine Gluconate,Elgydium Anti Plaque,125
+Chlorhexidine Gluconate,Hexide,38
+Chlorhexidine Gluconate,Haa,83
+Chlorhexidine Gluconate,Surgiscrub,195
+Chlorhexidine Gluconate,Nitra Hex,73
+Coenzyme ,Critizyme,539
+ClonazePAM,Rivotril,31
+ClonazePAM,Zapiz,14
+ClonazePAM,Clonotril,24
+ClonazePAM,Petril,18
+ClonazePAM,Lonazep,18
+ClonazePAM,Clonafit,18
+ClonazePAM,Melzap,18
+ClonazePAM,Cloze,18
+ClonazePAM,Zicam,17
+ClonazePAM,Clonam IR,23
+Digoxin,Lanoxin,11
+Digoxin,Dixin,11
+Digoxin,Digon,13
+Digoxin,Digoxin,21
+Digoxin,Cardioxin,7
+Digoxin,Digitran,5
+Digoxin,Sangoxin,9
+Mycophenolate Mofetil,Mmf,600
+Mycophenolate Mofetil,Mycept,387
+Mycophenolate Mofetil,Mycept-S,460
+Mycophenolate Mofetil,Mofilet,439
+Mycophenolate Mofetil,Mycomune S,942
+Mycophenolate Mofetil,Renodapt,380
+Mycophenolate Mofetil,Renodapt-S,380
+Mycophenolate Mofetil,Immutil,680
+Mycophenolate Mofetil,Mycomune,949
+Mycophenolate Mofetil,Mycofit,1065
+Metolazone,Zytanix,117
+Metolazone,Metoz,36
+Metolazone,Diurem,100
+Metolazone,Rpmel,107
+Metolazone,Zalat,62
+Metolazone,Metozide,105
+Metolazone,Lazon,66
+Metolazone,Metadure,50
+Metolazone,Metolaz,55
+Progesterone,Seacure O,249
+Progesterone,9FB,295
+Progesterone,Michelle,299
+Progesterone,Nugest,121
+Progesterone,Suregest,120
+Progesterone,Srgest,299
+Progesterone,Divagest,370
+Progesterone,Fegest,110
+Progesterone,FM Gest,295
+Progesterone,Ronygest,199
+Hydroquinone,Cutihyde,79
+Hydroquinone,Euskina,90
+Hydroquinone,Epilite,130
+Hydroquinone,Eutret,90
+Hydroquinone,Euskina Plus,190
+Hydroquinone,Tanlite,46
+Hydroquinone,Dermofade,38
+Hydroquinone,Quinine Dihydrochloride,15
+NIFEdipine,Nicardia Retard,36
+NIFEdipine,Nicardia,9
+NIFEdipine,Depin,21
+NIFEdipine,Calcigard,8
+NIFEdipine,NF,11
+NIFEdipine,Nifedine,12
+NIFEdipine,Nepin,8
+NIFEdipine,Cardipin,6
+NIFEdipine,Calnif,14
+NIFEdipine,Depicor,9
+Hydrochlorothiazide,Aquazide,9
+Hydrochlorothiazide,Hydrazide,9
+Hydrochlorothiazide,Hydride,10
+Hydrochlorothiazide,Thiazide,10
+Hydrochlorothiazide,Bpzide,8
+Hydrochlorothiazide,Dizide,9
+Hydrochlorothiazide,Novazide,161
+Hydrochlorothiazide,Hydronol,18
+Hydroxyurea,Riborea,120
+Hydroxyurea,Myelostat,103
+Hydroxyurea,Durea,147
+Hydroxyurea,Cytodrox,135
+Hydroxyurea,Unidrea,124
+Hydroxyurea,Hondrea,122
+Hydroxyurea,Mylostat,94
+Hydroxyurea,Hydrogem,56
+Hydroxyurea,Hydrox L,72
+Hydroxyurea,Hydran,100
+Leflunomide,Lefra,120
+Leflunomide,Lefno,98
+Leflunomide,Rumalef,177
+Leflunomide,Arava,292
+Leflunomide,Lefumide,108
+Leflunomide,Cleft,101
+Leflunomide,Lefuma,96
+Leflunomide,DM Lef,98
+Leflunomide,Lefron,89
+Leflunomide,Lefrhum,240
+Stavudine,Stahope,229
+Stavudine,Stavir,35
+Sodium Chloride,Dextrose with Normal Saline,22
+Sodium Chloride,Nasowash,12
+Sodium Chloride,NS,27
+Sodium Chloride,D,10
+Sodium Chloride,N.S,11
+Sodium Chloride,Haes Steril,292
+Sodium Chloride,Saltnase,197
+Sodium Chloride,Rofy,48
+Sodium Chloride,Tastee Z,16
+Sodium Chloride,Tromasol,50
+Clotrimazole,Clenorush Troche,41
+Clotrimazole,Gynocid,56
+Clotrimazole,Topcan,40
+Clotrimazole,Oraloz,37
+Clotrimazole,Clotrilin,24
+Clotrimazole,Clozole,27
+Clotrimazole,Candicul,40
+Clotrimazole,Candinil,17
+Clotrimazole,Clomax V3,28
+Clotrimazole,Decand V6,28
+Cetirizine-Pseudoephedrine,Hicet DC,56
+Cetirizine-Pseudoephedrine,Medicold,40
+Cetirizine-Pseudoephedrine,Relif,60
+Cetirizine-Pseudoephedrine,Cozymin AF,52
+Cetirizine-Pseudoephedrine,Locet D,20
+Cetirizine-Pseudoephedrine,Cefed,45
+Cetirizine-Pseudoephedrine,Eltrifed,42
+Cetirizine-Pseudoephedrine,Mdzime,15
+Cetirizine-Pseudoephedrine,Alcold,21
+Cetirizine-Pseudoephedrine,Cetiriz D,19
+Carbidopa-Levodopa,Syndopa,15
+Carbidopa-Levodopa,Tidomet,17
+Carisoprodol,Carisoma,35
+Oxaprozin,Macprox,55
+Tobramycin-Dexamethasone,Toba DM,19
+Tobramycin-Dexamethasone,Tobaren DM,58
+Tobramycin-Dexamethasone,Nebracin-DM,15
+Tobramycin-Dexamethasone,Ocutob D,11
+Tobramycin-Dexamethasone,Nebracin BM,33
+Tobramycin-Dexamethasone,Tobracid DM,13
+Tobramycin-Dexamethasone,Tobram D,16
+Tobramycin-Dexamethasone,Tobacin D,35
+Tobramycin-Dexamethasone,Tobrine DM,19
+Tobramycin-Dexamethasone,Tobadex,16
+Acetylcysteine,Mucinac,50
+Acetylcysteine,Mucomix,50
+Acetylcysteine,Mucotab,196
+Acetylcysteine,Nacfil,49
+Acetylcysteine,Lumenac,198
+Acetylcysteine,Effenac,188
+Acetylcysteine,Efetil,179
+Acetylcysteine,Coenac,179
+Acetylcysteine,Mucotroy,48
+Acetylcysteine,Fluimucil,10
+LORazepam,Ativan,61
+LORazepam,Lopez,15
+LORazepam,Trapex,20
+LORazepam,Benj,20
+LORazepam,Larpose,18
+LORazepam,Texina,16
+LORazepam,Loranza,16
+LORazepam,Loricon,19
+LORazepam,Proline,22
+LORazepam,Lorel,15
+Milk of Magnesia,Deys Milk OF Magnesia,5
+LevOCARNitine,Carnisure,136
+LevOCARNitine,Nucarnit,177
+LevOCARNitine,Carnitor,302
+LevOCARNitine,Lacarnit,126
+LevOCARNitine,Nutricell,330
+LevOCARNitine,Ree,161
+LevOCARNitine,Vernace,109
+LevOCARNitine,Carnimac,178
+LevOCARNitine,Levocarnil,304
+LevOCARNitine,Ten Cgm,499
+SUMAtriptan,Suminat,50
+SUMAtriptan,Imijet,1295
+SUMAtriptan,Sumitrex,19
+Indapamide,Natrilix,88
+Indapamide,Lorvas,104
+Indapamide,Indicontin,104
+Indapamide,Divret,91
+Indapamide,Diurix,45
+Indapamide,Insuretis,49
+Indapamide,Natritor,29
+Indapamide,Indap,56
+Indapamide,Fanton,28
+Indapamide,Indromide,76
+Benzonatate,Benz Pearls,88
+Benzonatate,Benz,88
+Methyldopa,Alphadopa,46
+Methyldopa,Dopar,30
+Methyldopa,AM Dopa,23
+Hyoscyamine,Eupep,135
+Calcium + D,Rutin,216
+Calcium + D,Troxerutin CD,80
+Calcium + D,Vazocap,87
+Isosorbide Dinitrate,Sorbitrate,38
+Isosorbide Dinitrate,Isordil,7
+Isosorbide Dinitrate,Dinospray,165
+Isosorbide Dinitrate,Sorbidine,160
+Isosorbide Dinitrate,Cordil,105
+Isosorbide Dinitrate,Cardicap,11
+Isosorbide Dinitrate,Anzidin,5
+Desoximetasone,Xinasone,120
+Desoximetasone,Emcor,175
+Lisinopril-Hydrochlorothiazide,Listril Plus,85
+Lisinopril-Hydrochlorothiazide,Lipril H,82
+Lisinopril-Hydrochlorothiazide,Lisoril HT,53
+Lisinopril-Hydrochlorothiazide,Redihope,15
+Lisinopril-Hydrochlorothiazide,Cipril-H,52
+Permethrin,Permite,53
+Permethrin,Scabest,65
+Permethrin,Peritop,58
+Permethrin,Scamer,109
+Permethrin,Perzar,55
+Permethrin,Dat,44
+Permethrin,Scabilog,66
+Permethrin,Permetron,37
+Permethrin,Permin,53
+Permethrin,Elice,50
+Nicotine,Nicotex Plus,64
+Nicotine,Nicotex,64
+Nicotine,Nicogum,63
+Nicotine,Niclonz,71
+Nicotine,Smoke Free,60
+Nicotine,Frenquit,60
+Nicotine,Nicotine Polacrilex,69
+Nicotine,Goodkha,15
+Nicotine,Nixit,100
+Nicotine,2Baconil,275
+OXcarbazepine,Oxetol,33
+OXcarbazepine,Zenoxa,56
+OXcarbazepine,Trioptal,73
+OXcarbazepine,Vinlep,73
+OXcarbazepine,Oleptal,57
+OXcarbazepine,Selzic,50
+OXcarbazepine,Oxmazetol,46
+OXcarbazepine,Lovax,25
+OXcarbazepine,Oxcarb,52
+OXcarbazepine,Oleptal OD,102
+Cefdinir,Adcef,115
+Cefdinir,Kefnir,73
+Cefdinir,Zinir,103
+Cefdinir,Idinir,125
+Cefdinir,Resdinir,100
+Cefdinir,Cednir,171
+Cefdinir,Cefdiel,191
+Cefdinir,Cefdipar,66
+Cefdinir,Kefdure,129
+Cefdinir,Oceph,89
+Clidinium-Chlordiazepoxide,Clistar RT,49
+Clidinium-Chlordiazepoxide,Ranicom AS,27
+Cyanocobalamin,Vib 12,10
+Cyanocobalamin,Macrabin,181
+Dapsone,Dapsone,224
+Methimazole,Methimez,42
+Haloperidol,Serenace,5
+Haloperidol,Trancodol,5
+Haloperidol,Senorm LA,200
+Haloperidol,Hexidol,16
+Haloperidol,Trancodol LA,177
+Haloperidol,Nedol,5
+Haloperidol,Talendol,5
+Haloperidol,Halidace,7
+Haloperidol,Dolteus,16
+Haloperidol,Relinase LA,120
+Didanosine,Dinosin,685
+Melatonin,Meloset,36
+Melatonin,Noctura,175
+Melatonin,Bioclock,21
+Melatonin,Lamonin,15
+Melatonin,Melokalm,40
+Carvedilol,Cardivas,32
+Carvedilol,Carca,40
+Carvedilol,Carloc,27
+Carvedilol,Carvil,39
+Carvedilol,Carvistar,18
+Carvedilol,Carzec,27
+Carvedilol,Carvipress,30
+Carvedilol,Carvibeta,24
+Carvedilol,Cardol,11
+Carvedilol,Carveday,32
+Famotidine,Topcid,3
+Famotidine,Famocid,3
+Famotidine,Famtac,4
+Famotidine,Fadine,3
+Famotidine,Facid,3
+Famotidine,Famolet,29
+Famotidine,Famonext,4
+Famotidine,Famocer,3
+Famotidine,Acicon,3
+Famotidine,Pepgard,11
+SulfaSALAzine,Sazo,63
+SulfaSALAzine,Saaz,49
+SulfaSALAzine,Salazar,42
+SulfaSALAzine,Sazo EN,88
+SulfaSALAzine,Ssn,63
+SulfaSALAzine,Iwata,57
+Ondansetron,Ondem,11
+Ondansetron,Vomikind,9
+Ondansetron,Emeset,36
+Ondansetron,Zofer,33
+Ondansetron,Periset,12
+Ondansetron,Anset,16
+Ondansetron,Emigo,33
+Ondansetron,Vomicure,32
+Ondansetron,Isv,17
+Ondansetron,Eterna,28
+Lansoprazole,Junior Lanzol,92
+Lansoprazole,Lan,41
+Lansoprazole,Lanspro,32
+Lansoprazole,Lanfil,93
+Lansoprazole,Lanzol,82
+Lansoprazole,Lancus,59
+Lansoprazole,Lanzoprax Kid,52
+Lansoprazole,Lonido,49
+Lansoprazole,Lanspep,46
+Lansoprazole,Lanpro,72
+Polyethylene Glycol,Pegred,210
+Polyethylene Glycol,Pegmove,173
+Polyethylene Glycol,Muout Plus,192
+Polyethylene Glycol,Pegvel,40
+Polyethylene Glycol,Constipeg,30
+Polyethylene Glycol,H Peg,175
+Polyethylene Glycol,Coloclean,183
+Polyethylene Glycol,Endopeg,92
+Polyethylene Glycol,Relux,220
+Chlorpheniramine-Pseudoeph,Seumol,15
+Chlorpheniramine-Pseudoeph,Norkold CC,22
+Glycerin,Hallens Glycerin (Pead),66
+Glycerin,Duestom,99
+Glycerin,Hgs Infant,70
+Glycerin,Glycerin,20
+Glycerin,Glycerine,18
+Ofloxacin,Zanocin,35
+Ofloxacin,Oflox,40
+Ofloxacin,OF,22
+Ofloxacin,Ofler,50
+Ofloxacin,Norilet O,49
+Ofloxacin,Oflin,34
+Ofloxacin,Oflacin,43
+Ofloxacin,Bestoflox,18
+Ofloxacin,Ronflox,33
+Ofloxacin,Novofran,39
+Loratadine,Lorfast,74
+Loratadine,Alaspan,67
+Loratadine,Lorinol,71
+Loratadine,Lormeg,41
+Loratadine,Lorin,27
+Loratadine,Alorti,55
+Loratadine,Lad,36
+Loratadine,Claridin,32
+Loratadine,Lorzet,38
+Loratadine,Lordil,42
+Methocarbamol,Robinax,24
+Cipro,Ciplox,15
+Cipro,Cifran,17
+Cipro,Ciprobid,18
+Cipro,Alcipro,18
+Cipro,Ciprobiotic,11
+Cipro,Zoxan,5
+Cipro,Cefobang,64
+Cipro,Cifran OD,18
+Cipro,Cebran,9
+Cipro,Ciprodac,12
+Benzoyl Peroxide,Bengel AC,111
+Benzoyl Peroxide,Pernex AC,47
+Benzoyl Peroxide,Perobar,107
+Isoniazid,Solonex,8
+Isoniazid,Lup Inh,10
+Isoniazid,Isonij,10
+Isoniazid,Isoniazid,1
+Colchicine,Zycolchin,31
+Colchicine,Goutnil,31
+Colchicine,Colochicine,10
+Colchicine,Colchicindon,12
+Lovastatin,Statin,19
+Lovastatin,Lovex,33
+Lovastatin,Aztatin,34
+Lovastatin,Elstatin,80
+Lovastatin,Lipistat,43
+Lovastatin,Lostatin,35
+Lovastatin,Lochol,25
+Lovastatin,Lovacard,103
+Lovastatin,Lovalip,77
+Lovastatin,Recol,29
+Dextromethorphan-Guaifenesin,Tixy Soft,12
+Dextromethorphan-Guaifenesin,Dextopen,41
+Folic Acid,Fecontin,143
+Folic Acid,Folistar,159
+Folic Acid,Afol,13
+Folic Acid,Vitfol,10
+Folic Acid,Folitas,40
+Folic Acid,Goodvit,15
+Folic Acid,Folera,46
+Folic Acid,Folican,15
+Folic Acid,Folicon,18
+Folic Acid,Foly-Act,14
+Potassium Chloride,Kcl,21
+Potassium Chloride,Potcl,23
+Potassium Chloride,Ricetral,5
+Potassium Chloride,Troykcl,100
+Calcitonin,Calcinase,1270
+Calcitonin,Miacalcic,1596
+Calcitonin,Ostospray,1150
+Calcitonin,Calcispray,1918
+Calcitonin,Calspray,1310
+Calcitonin,Rockbon C,1520
+Calcitonin,Bmdrise,1500
+Calcitonin,Bonspark,1242
+Calcitonin,Unicalcin,115
+Calcitonin,Kalnase,950
+Mupirocin,B Bact,100
+Mupirocin,Mupimet,109
+Mupirocin,Supirocin,104
+Mupirocin,Mupi,90
+Mupirocin,Mpower,78
+Mupirocin,Mopry,88
+Mupirocin,K Bact,90
+Mupirocin,Tercin Whp,319
+Mupirocin,Mumet,75
+Ramipril,Cardace,42
+Ramipril,Ramistar,22
+Ramipril,Hopace,43
+Ramipril,Ramcor,39
+Ramipril,Ramipres,39
+Ramipril,Macpril,27
+Ramipril,Ramisave,47
+Ramipril,Cardiopril,31
+Ramipril,Zorem,33
+Ramipril,Ramihart,25
+Itraconazole,Candiforce,48
+Itraconazole,Itrasys,46
+Itraconazole,IT-Mac,39
+Itraconazole,I-Tyza,87
+Itraconazole,Sporanox,325
+Itraconazole,Onitraz,122
+Itraconazole,Sporaz,49
+Itraconazole,Itratuf,176
+Itraconazole,Canditral,197
+Itraconazole,Syntran,197
+Etodolac,Proxym,131
+Etodolac,Etova,42
+Etodolac,Etogesic,66
+Etodolac,Setolac,170
+Etodolac,Toldin,60
+Etodolac,Musran,98
+Etodolac,Etosafe,135
+Etodolac,Etofree,136
+Etodolac,Etornext,137
+Etodolac,Etova AQ,160
+Diphenoxylate-Atropine,Lomotil,15
+Topiramate,Topamac,86
+Topiramate,Topirol,29
+Topiramate,Topaz,67
+Topiramate,Nextop,55
+Topiramate,Topirain,46
+Topiramate,Tormap,50
+Topiramate,Topamed,45
+Topiramate,Epitop,39
+Topiramate,Monotop,48
+Topiramate,Topse,43
+Metaxalone,Flexura,98
+Calcium,Coecoral D3,115
+Calcium,Coecoral,90
+Calcium,Ezorb,56
+Calcium,Hypophos,106
+Calcium,Calbade,32
+Amoxicillin-Pot Clavulanate,Clavcare-W,56
+Amoxicillin-Pot Clavulanate,Trimoclav,114
+Amoxicillin-Pot Clavulanate,Hactamox,92
+Amoxicillin-Pot Clavulanate,Kilban,169
+Amoxicillin-Pot Clavulanate,Symbiotik XL Plus,135
+Amoxicillin-Pot Clavulanate,Xclav,184
+Amoxicillin-Pot Clavulanate,Clymo,52
+Amoxicillin-Pot Clavulanate,Clymo Forte,118
+Amoxicillin-Pot Clavulanate,Axcve,169
+Amoxicillin-Pot Clavulanate,Xclav Duo,52
+Mirtazapine,Mirtaz,67
+Mirtazapine,Mirnite,54
+Mirtazapine,Mirtakem,54
+Mirtazapine,Mirtadep,45
+Mirtazapine,Mirsol,52
+Mirtazapine,Mirtee,43
+Mirtazapine,Mirazep,81
+Mirtazapine,Mirza,69
+Mirtazapine,Mirdep,51
+Mirtazapine,Mirton,38
+MethylPREDNISolone,Solu Medrol,46
+MethylPREDNISolone,Depo Medrol,70
+MethylPREDNISolone,Medrol,45
+MethylPREDNISolone,Ivepred,36
+MethylPREDNISolone,Nucort-M,32
+MethylPREDNISolone,Zempred,40
+MethylPREDNISolone,Mepresso I,72
+MethylPREDNISolone,Depotex,49
+MethylPREDNISolone,Mepsonate,52
+MethylPREDNISolone,Macpred,37
+Felodipine,Plendil,36
+Aspir,Ecosprin,4
+Aspir,Loprin,4
+Aspir,Delisprin,3
+Aspir,Disprin,4
+Aspir,Asa,3
+Aspir,Asprin,159
+Aspir,Delay Release Asprin,3
+Aspir,Aspeeday,3
+Aspir,Colsprin,2
+Aspir,Sprin,2
+Erythromycin,Althrocin,17
+Erythromycin,Eltocin,16
+Erythromycin,Althrocin Kid,27
+Erythromycin,E Mycin,23
+Erythromycin,Erypal,23
+Erythromycin,Erocin,63
+Erythromycin,Erythrol,38
+Erythromycin,Althrocin Forte,31
+Erythromycin,Cynoryl,50
+Erythromycin,Agrocin,11
+Soma,Headon,3200
+Soma,Somastin,343
+Soma,Somatin,495
+Soma,Zomator,964
+Soma,Somatex,1698
+Lactulose,Duphalac,157
+Lactulose,Looz,201
+Lactulose,Livoluk,62
+Lactulose,Emty,104
+Lactulose,Smulax,97
+Lactulose,Laxday,108
+Lactulose,Laxiwal,102
+Lactulose,Evict XF,150
+Lactulose,Laxose,105
+Lactulose,Totalax,160
+Pyrazinamide,Pyzina,40
+Pyrazinamide,P-Zide,40
+Pyrazinamide,Macrozide,26
+Pyrazinamide,Pza Ciba,74
+Pyrazinamide,P Mide,72
+Pyrazinamide,Pyranij,39
+Pyrazinamide,Pyramid,54
+Pyrazinamide,Pyra,17
+Pyrazinamide,Actizid,48
+Pyrazinamide,Laclomox,79
+Etoposide,Posid,154
+Etoposide,Etolon,124
+Etoposide,Bioposide,195
+Etoposide,Oncosid,187
+Etoposide,Etosid,50
+Etoposide,Fytosid,191
+Etoposide,Fytop,172
+Etoposide,Eside,238
+Etoposide,Etoglan,199
+Etoposide,Lastet,124
+ISOtretinoin,Isotroin,90
+ISOtretinoin,Tretiva,78
+ISOtretinoin,Acutret,80
+ISOtretinoin,D Acne I,117
+ISOtretinoin,Isotane,136
+ISOtretinoin,Tretin-Iso,132
+ISOtretinoin,Isoin,127
+ISOtretinoin,Tufacne,138
+ISOtretinoin,Acnex,114
+ISOtretinoin,Resoten,130
+Potassium Citrate-Citric Acid,K Cit,89
+Potassium Citrate-Citric Acid,Urikind K,49
+Potassium Citrate-Citric Acid,Proliser,66
+Potassium Citrate-Citric Acid,Logneg,89
+Glimepiride,Amaryl,109
+Glimepiride,Zoryl,54
+Glimepiride,Azulix,36
+Glimepiride,Glimestar,24
+Glimepiride,Glador,35
+Glimepiride,Diapride,34
+Glimepiride,Glimer,36
+Glimepiride,Euglim,32
+Glimepiride,Glimiprex,32
+Glimepiride,Glypride,35
+Fenofibrate,Stanlip,87
+Fenofibrate,Lipicard,123
+Fenofibrate,Fenolip,109
+Fenofibrate,Feno-TG,136
+Fenofibrate,Fenocor,90
+Fenofibrate,Tgr,113
+Fenofibrate,Finate,94
+Fenofibrate,Stanlip Plus,142
+Fenofibrate,Fenofibric,70
+Fenofibrate,Fibral,118
+Gabapentin,Gabapin,91
+Gabapentin,Pentanerv,61
+Gabapentin,Acegaba,49
+Gabapentin,Laregab,56
+Gabapentin,Gabator,52
+Gabapentin,Gabalent,41
+Gabapentin,Gabagesic,44
+Gabapentin,Gabalept,162
+Gabapentin,Gabawell,45
+Gabapentin,Gabacent,39
+Mefenamic Acid,Meftal,19
+Mefenamic Acid,Ibuclin P,29
+Mefenamic Acid,Mefanorm,31
+Mefenamic Acid,Mefkind P,30
+Mefenamic Acid,Mefast,31
+Mefenamic Acid,Rxmef,32
+Mefenamic Acid,New Zydol,39
+Mefenamic Acid,Mefprex,30
+Mefenamic Acid,Ponstan,19
+Mefenamic Acid,Mefac,35
+Valproic Acid,Ivalp,32
+Valproic Acid,Alporate,35
+Valproic Acid,Novalept Chrono,28
+Valproic Acid,Epsoval,21
+Valproic Acid,Convulex,29
+Valproic Acid,Valcot,41
+Valproic Acid,Disoval,51
+Valproic Acid,Diovat XR,72
+Valproic Acid,Doncorate,64
+Valproic Acid,Welcorate,64
+PEG,Macugen,44571
+ALPRAZolam,Alprax,19
+ALPRAZolam,Trika,18
+ALPRAZolam,Anxit,16
+ALPRAZolam,Alzolam,12
+ALPRAZolam,Restyl,17
+ALPRAZolam,Zolax,10
+ALPRAZolam,Texidep,9
+ALPRAZolam,Zolam,10
+ALPRAZolam,Alprocontin,24
+ALPRAZolam,Zolent,11
+Nateglinide,Glinate,78
+Nateglinide,Natiz,53
+Nateglinide,Natelide,30
+Zonisamide,Zonegran,208
+Zonisamide,Zonisep,34
+Zonisamide,Zonimid,36
+Zonisamide,Epigran,100
+Zonisamide,Zonicare,57
+Zonisamide,Zonit,26
+Ranitidine,Aciloc,3
+Ranitidine,Zinetac,3
+Ranitidine,Rantac,3
+Ranitidine,Histac,3
+Ranitidine,R-Loc,21
+Ranitidine,Ranitin,3
+Ranitidine,Rantac OD,45
+Ranitidine,Aciloc Only,59
+Ranitidine,Peptiran,38
+Ranitidine,Zynol,5
+LamoTRIgine,Lamitor,58
+LamoTRIgine,Lamitor OD,113
+LamoTRIgine,Lametec,14
+LamoTRIgine,Lamez,46
+LamoTRIgine,Lamictal,43
+LamoTRIgine,Lamosyn,56
+LamoTRIgine,Lamepil,46
+LamoTRIgine,Lamokem OD,107
+LamoTRIgine,Lamictin,62
+LamoTRIgine,Lamidus,44
+Nitroglycerin,Monit GTN,146
+Nitroglycerin,Angispan,150
+Nitroglycerin,Nitrocontin,194
+Nitroglycerin,Bmd Max,151
+Nitroglycerin,Angiplat,118
+Nitroglycerin,Vasovin,117
+Nitroglycerin,Glytrate,110
+Nitroglycerin,Nirowin,70
+Nitroglycerin,Nestin,120
+Nitroglycerin,GTN Sorbitrate,142
+Silver Sulfadiazine,Burnosaf Plus,1519
+Silver Sulfadiazine,Silverdina,206
+Silver Sulfadiazine,Safoderm Plus,18
+Silver Sulfadiazine,Silver Sulfadiazine,201
+Ketoconazole,Hyphoral,240
+Ketoconazole,Triket,150
+Ketoconazole,Hyporal,199
+Ketoconazole,Freek,9
+Ketoconazole,Ketozole,155
+Ketoconazole,Lirotek,109
+Ketoconazole,Kanazole,70
+Ketoconazole,Exket,135
+Ketoconazole,Ketoza,165
+Ketoconazole,Ketostal,180
+Calcitriol,Calcirol,39
+Calcitriol,Laretol,96
+Calcitriol,Psorafuse,362
+Calcitriol,Osta D3,18
+Calcitriol,Devita,32
+Calcitriol,Ostriol,51
+Calcitriol,Auxitrol,140
+Captopril,Angiopril,25
+Captopril,Aceten,26
+Niacin,Nicoglow,65
+Cholestyramine,Choltran,31
+Cholestyramine,Clostran,1200
+AcetaZOLAMIDE,Diamox,53
+AcetaZOLAMIDE,Iopar,56
+AcetaZOLAMIDE,Acetamide,56
+AcetaZOLAMIDE,Avva,42
+AcetaZOLAMIDE,Actamid,41
+AcetaZOLAMIDE,Cap,54
+AcetaZOLAMIDE,Glumox,38
+AcetaZOLAMIDE,AC Mox,42
+AcetaZOLAMIDE,Albox,13
+AcetaZOLAMIDE,Opt,7
+Dexamethasone,Dexona,3
+Dexamethasone,Decdan,1
+Dexamethasone,Ozurdex,24303
+Dexamethasone,Dexonil,63
+Dexamethasone,Dexaject,9
+Dexamethasone,Decamycin,5
+Dexamethasone,Demisone,2
+Dexamethasone,Biodexone,6
+Dexamethasone,Dex Z,75
+Dexamethasone,Dexagee,2
+Cilostazol,Stiloz,124
+Cilostazol,Pletoz,101
+Cilostazol,Cilodoc,103
+Cilostazol,Zilast,95
+Cilostazol,Stozic,76
+Cilostazol,Cilotab,64
+Cilostazol,Preclaud,144
+Cilostazol,Pencil,53
+Cilostazol,Cilobid,69
+Cilostazol,Cilesta,79
+Anastrozole,Adova,225
+Anastrozole,Arimidex,3435
+Anastrozole,Stazonex,582
+Anastrozole,Altraz,810
+Anastrozole,Femistra,366
+Anastrozole,Anaday,577
+Anastrozole,Armotraz,544
+Anastrozole,Aromita,272
+Anastrozole,Elinal,444
+Anastrozole,Anastronat,1200
+Allopurinol,Zyloric,18
+Allopurinol,Zyrik,24
+Allopurinol,Ciploric,18
+Allopurinol,Logout,23
+Allopurinol,Alinol,26
+Allopurinol,Lodiric,71
+Allopurinol,Piloric,7
+Allopurinol,Oxyprim,62
+Allopurinol,Avery,27
+Allopurinol,Alopur,21
+Hydrocortisone,Primacort,37
+Hydrocortisone,Hisone,28
+Hydrocortisone,Cort S,36
+Hydrocortisone,Troycort,40
+Hydrocortisone,Acucort,43
+Hydrocortisone,Fmp,55
+Hydrocortisone,Hydrolin,41
+Hydrocortisone,H Cort,38
+Hydrocortisone,Cortisum,26
+Hydrocortisone,Solu Cort,34
+Methotrexate,Folitrax,29
+Methotrexate,Mext,78
+Methotrexate,Mexate,18
+Methotrexate,Oncotrex,53
+Methotrexate,Neotrexate,44
+Methotrexate,Imutrex,44
+Methotrexate,Merex,500
+Methotrexate,Biotrexate,49
+Methotrexate,Remtrex,22
+Methotrexate,Methocel,33
+Famciclovir,Virovir,275
+Famciclovir,Microvir,149
+Famciclovir,Penvir,180
+Famciclovir,Famcimac,195
+Famciclovir,Famnova,459
+Famciclovir,Famtrex,287
+Famciclovir,Virax FC,190
+GuaiFENesin AC,E Tag,90
+GuaiFENesin AC,Rapitus XT,97
+GuaiFENesin AC,Briovent,72
+GuaiFENesin AC,Venphylin Plus,79
+Finasteride,Finast,528
+Finasteride,Finax,195
+Finasteride,Finpecia,91
+Finasteride,Finalo,45
+Finasteride,Fincar,147
+Finasteride,Prohair,64
+Finasteride,Finacet,38
+Finasteride,Fintross,40
+Finasteride,Curlzfin,50
+Finasteride,Growvita,37
+Omeprazole,Ocid,37
+Omeprazole,Omez,11
+Omeprazole,Ocid Qrs,75
+Omeprazole,Omez FF,50
+Omeprazole,Oskar,23
+Omeprazole,Omesec,24
+Omeprazole,Ometab,33
+Omeprazole,Ome Ppi,24
+Omeprazole,Tacko M,35
+Omeprazole,Promisec,29
+Povidone-Iodine,Betadine,46
+Povidone-Iodine,Wokadine,45
+Povidone-Iodine,Betakind,78
+Povidone-Iodine,Cipladine,20
+Povidone-Iodine,Heal Fast,51
+Povidone-Iodine,Soludine,34
+Povidone-Iodine,Zovi,54
+Povidone-Iodine,Metrokind PV,28
+Povidone-Iodine,Zylo P,28
+Povidone-Iodine,Balvidine,52
+Acarbose,Glucobay,70
+Acarbose,Glucar,67
+Acarbose,Recarb,46
+Acarbose,Diabose,68
+Acarbose,Glubose,39
+Acarbose,Glutiro,60
+Acarbose,Disorb,31
+Acarbose,AC Z,37
+Acarbose,Karbocheck,66
+Acarbose,K Carb,30
+Isosorbide Mononitrate,Imdur,145
+Isosorbide Mononitrate,Monotrate,21
+Isosorbide Mononitrate,Monit,32
+Isosorbide Mononitrate,Ismo,54
+Isosorbide Mononitrate,Isonorm,18
+Isosorbide Mononitrate,Nitrofix,21
+Isosorbide Mononitrate,Natriem,46
+Isosorbide Mononitrate,Solotrate,29
+Isosorbide Mononitrate,Monosorbitrate,21
+Isosorbide Mononitrate,Vasotrate,10
+RisperiDONE,Sizodon,22
+RisperiDONE,Risdone,21
+RisperiDONE,Risperdal Consta,4690
+RisperiDONE,Risperdal,30
+RisperiDONE,Respidon,20
+RisperiDONE,Risnia,9
+RisperiDONE,Rispond,30
+RisperiDONE,Risdone MT,20
+RisperiDONE,Riscon,27
+RisperiDONE,Resque,26
+Cabergoline,Cabgolin,160
+Cabergoline,Caberlin,160
+Cabergoline,CB-Lin,72
+Cabergoline,Cabercet,110
+Cabergoline,Camforte,79
+Cabergoline,Cabliz,60
+Cabergoline,TT Cab,268
+Cabergoline,Cabgon,105
+Cabergoline,Caberlact,60
+Cabergoline,Colette,90
+Simvastatin,Simvotin,78
+Simvastatin,Zosta,105
+Simvastatin,Simlo,53
+Simvastatin,Femella,99
+Simvastatin,Starstat,53
+Simvastatin,Simvofix,50
+Simvastatin,Simcard,173
+Simvastatin,Simvas,74
+Simvastatin,Arstatin,64
+Simvastatin,Simastin,30
+Simethicone,Pepfiz,6
+Simethicone,Flatuna,39
+Simethicone,Flatubust,49
+Simethicone,Cymbi,40
+Simethicone,Gasofilm,360
+Simethicone,Laxit,130
+Simethicone,Eupeptine,66
+Simethicone,Espumisan,41
+Simethicone,Leeds,36
+Simethicone,Revispas,28
+Folic Acid,Fecontin,143
+Folic Acid,Afol,13
+Folic Acid,Vitfol,10
+Folic Acid,Goodvit,15
+Folic Acid,Folera,46
+Naproxen,Naprosyn,22
+Naproxen,Arthopan,52
+Naproxen,Artagen,34
+Naproxen,Naproz,34

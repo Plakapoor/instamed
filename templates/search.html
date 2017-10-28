@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+  	<meta name="theme-color" content="#121212">
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  	<link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,700,800,900" rel="stylesheet">
+  	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css')}}">
+  </head>
+  <body>
+  	<div class="main">
+  			<a class="search" href="{{ url_for('search')}}"><img src="{{ url_for('static', filename='img/magnifier.png')}}" align="right" width="30px" style="margin-top: 20px;margin-right: 20px;opacity: 1;"></a>
+      <a href="/home" class="picture"><img src="{{ url_for('static', filename='img/shutter.png')}}" align="right" width="30px" style="margin-top: 20px;margin-right: 20px;"></a>
+      <h1>instamed</h1>
+      <span class="tagline">Helping you take the better step</span>
+
+        <div class="datasection">
+       
+       {% if y|length == 0 %}
+        <center> No matches found. </center>
+
+       {% else %}
+         <center>
+          <h3> You searched for : </h3>
+          {% for key in y %}
+            {{ key }} which costs Rs. {{ y[key]}}
+          {% endfor %}
+          {% if x|length == 0 %}
+            <center> No cheaper alternatives available. </center>
+          {% else %}
+          <h3> Cheaper alternatives available: </h3> 
+          <table cellspacing="0" border="solid black 1px">
+            <tr> <th style = "padding: 10px 20px"> Name </th> <th style = "padding: 10px 20px"> Price </th></tr>
+             {% for key in x %}
+            <tr> <td style = "padding: 10px 20px"> {{ key }}</td>
+              <td style = "padding: 10px 20px"> {{ x[key]}} </td>
+             </tr>
+              {% endfor %}
+            {% endif %}
+        {% endif %}
+        </table>
+        <center>
+  		</div>
+  	</div>
+  </body>
+</html>

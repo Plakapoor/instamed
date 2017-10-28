@@ -1,0 +1,26 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+  	<meta name="theme-color" content="#121212">
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  	<link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,700,800,900" rel="stylesheet">
+  	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css')}}">
+  </head>
+  <body>
+  	<div class="main">
+  		<a class="search" href="{{ url_for('search')}}"><img src="{{ url_for('static', filename='img/magnifier.png')}}" align="right" width="30px" style="margin-top: 20px;margin-right: 20px;"></a>
+  		<a href="/home" class="picture"><img src="{{ url_for('static', filename='img/shutter.png')}}" align="right" width="30px" style="margin-top: 20px;margin-right: 20px;opacity: 1;"></a>
+  		<h1>instamed</h1>
+  		<span class="tagline">Helping you take the better step</span>
+  		<div class="datasection">
+  			<img src="{{ url_for('static', filename='img/camera.jpg')}}">
+  			<center><h2>Upload Image</h2></center>
+  			<form action="{{ url_for('upload')}}" method="post" enctype="multipart/form-data">
+  				<center><input type="file" name="file" id="file" capture="camera" required="" style="position: relative;left: 40px; "> <br><br>
+  				<input type="submit" value="ANALYSE IMAGE"></center>
+  			</form>
+
+  		</div>
+  	</div>
+  </body>
+</html>
